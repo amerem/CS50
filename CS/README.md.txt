@@ -12,4 +12,4 @@ git push -u origin master
 …or push an existing repository from the command line
 
 git remote add origin git@github.com:amerem/CS50.git
-git push -u origin master
+git push -u origin master   
