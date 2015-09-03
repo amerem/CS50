@@ -1,0 +1,53 @@
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 /usr/local/bin/chromedriver
+[0.232][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.233][INFO]:      Using named testing interface
+[0.591][INFO]:      Connected to Chrome successfully. Version: 29.0.1547.65
+[0.594][FINE]:      Command received (/session/8e37cf3a4700b924b24a9b6d204440eb)
+[0.594][FINE]:      Command finished (/session/8e37cf3a4700b924b24a9b6d204440eb) with response {
+   "sessionId": "8e37cf3a4700b924b24a9b6d204440eb",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "26.0.1383.0",
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "mac",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "29.0.1547.65",
+      "webStorageEnabled": true
+   }
+}
+
+[0.597][FINE]:      Command received (/session/8e37cf3a4700b924b24a9b6d204440eb/url) with params {
+   "url": "http://streetline:market995@policy-import-stage.streetline.com/"
+}
+
+[0.597][FINER]:     Waiting for all views to stop loading...
+[0.602][FINER]:     Done waiting for all views to stop loading
+[0.603][FINE]:      Command received (/session/8e37cf3a4700b924b24a9b6d204440eb/screenshot)
+[0.603][FINER]:     Waiting for all views to stop loading...
+[0.635][FINER]:     Done waiting for all views to stop loading
+[0.637][FINE]:      Command received (/session/8e37cf3a4700b924b24a9b6d204440eb)
+[0.675][INFO]:      Chrome shutdown
